@@ -1,0 +1,8 @@
+flask
+requests
+transformers
+torch
+gunicorn
+python-dotenv
+google-api-python-client
+snscrape
